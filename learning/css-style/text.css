@@ -1,0 +1,44 @@
+p{
+    font-family: Arial;
+}
+.video-title{
+    font-size: 20px;
+    font-weight:bold;
+    width: 300px;
+    line-height: 25px;
+    margin-bottom: 7px;
+}
+.video-views{
+    color:gray;
+    font-size: 14px;
+    margin-bottom: 7px;
+    margin-top: 5px;
+}
+.video-description{
+color: black;
+font-size: 17px;
+width:300px;
+margin-top: 10px;
+line-height: 22px;
+
+}
+.video-author{
+    font-size:14px;
+    color:gray;
+}
+.video-actioncall{
+    color:white;
+    background-color: rgb(243, 12, 12);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    text-align:center;
+    transition: 1.5s;
+}
+.Video-shoppinglink{
+    cursor:pointer;
+    
+}
+.Video-shoppinglink:hover{
+    text-decoration: underline;
+    color:blue;
+}
